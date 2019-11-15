@@ -1,1 +1,1 @@
-# testproj-configuration
+# notary-configuration
