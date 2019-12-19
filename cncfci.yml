@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/notary/icon/color/notary-icon-color.svg?sanitize=true"
   display_name: Notary
-  sub_title: Notary is a project that allows anyone to have trust over arbitrary collections of data
+  sub_title: Security
   project_url: "https://github.com/theupdateframework/notary"
   stable_ref: "v0.6.1"
   head_ref: "master"
