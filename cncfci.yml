@@ -7,8 +7,8 @@
   head_ref: "master"
   ci_system:
     -
-      ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/theupdateframework/notary"  # can be anything for citest
+      ci_system_type: "circle-ci"
+      ci_project_url: "https://circleci.com/gh/theupdateframework/notary" 
       ci_project_name: "theupdateframework/notary"
       arch:
         - amd64
